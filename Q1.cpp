@@ -7,12 +7,7 @@ struct Item{
 };
 
 int main(){
-  Item i1;
-  Item i2;
-  Item i3;
-  Item i4;
-  Item i5;
-  Item i6;
+ 
 
   Item arr[6];
   cout<<"Plese enter values for first four elements";
