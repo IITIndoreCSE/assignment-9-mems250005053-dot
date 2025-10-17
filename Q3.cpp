@@ -8,9 +8,10 @@ float y;
 
 int main(){
   Point arr[7];
+  int n=0;
   for(int i=0; i<7; i++){
     float a,b;
-    int n=0;
+  
     cout<<"Enter "<<i<<" set of coordinates\n";
     cout<<"Enter x coordinate :";
     cin>>a;
