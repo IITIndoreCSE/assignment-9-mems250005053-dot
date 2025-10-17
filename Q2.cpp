@@ -9,11 +9,7 @@ int green;
 };
 
 int main(){
-  Color c1;
-  Color c2;
-  Color c3;
-  Color c4;
-  Color c5;
+  
   Color arr[5];
   arr[0]={50,100,150};
   arr[1]={51,101,151};
